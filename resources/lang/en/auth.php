@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'agree' => 'Я прочитал условия соглашения',
+    'already_member' => 'Я уже зарегистрирован',
+    'email' => 'Email Адрес',
+    'failed' => 'Эти учетные данные не соответствуют нашим требованиям.',
+    'forgot_password' => 'Я забыл свой пароль',
+    'login' => 'Войти',
+    'login_facebook' => 'Войти через Facebook',
+    'login_google' => 'Войти через Google+',
+    'login_title' => 'Админ! сегодня хороший день, чтобы умереть! ))',
+    'login_twitter' => 'Войти черезg Twitter',
+    'logout' => 'Выход',
+    'name' => 'Имя и Фамилия',
+    'password' => 'Пароль',
+    'password_confirmation' => 'Подтвердите пароль',
+    'register' => 'Войти',
+    'register_new_member' => 'Регистрация нового пользователя',
+    'remember_me' => 'Запомнить меня',
+    'remember_password' => 'Я вспомнил, пароль вернуться чтобы войти',
+    'reset_password' => 'Сбросить',
+    'reset_password_title' => 'Введите новый пароль',
+    'reset_title' => 'Email для сброса пароля',
+    'send_password' => 'Отправить ссылку для подтверждения',
+    'throttle' => 'Слишком много попыток входа в систему. Пожалуйста, попробуйте еще раз через :seconds seconds.',
+];
